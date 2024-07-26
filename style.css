@@ -1,0 +1,57 @@
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white
+    color: yellow;
+    font-size: 16px;
+    padding: 5px;
+}
+nav {
+    background:white;
+    padding: 2px;
+    display:flex;
+    justify-content: space-around;
+}
+img {
+    width: 70px;
+}
+.items:hover {
+    background-color: red;
+    opacity: 0.5;
+    
+}
+a {
+    width: 80%;
+    text-align: center;
+    text-decoration: none;
+}
+#item{
+    align-items: space-between;
+}
+body{
+    background-image: url(place.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+form{
+    color: lightsalmon;
+    margin: 100px;
+    width: 250px;
+    height: 250px;
+}
+#usermane{
+    width: 200px;
+}
+#password{
+    width: 200px;
+}
+.for{
+}
+
+
+
+
+
+
+
+
+
